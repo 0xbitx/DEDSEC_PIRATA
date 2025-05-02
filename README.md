@@ -23,7 +23,6 @@ With a minimal interface and fast execution, it's the perfect tool for users who
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_PIRATA.git 
     * cd DEDSEC_PIRATA
-    * pip install beautifulsoup4 tabulate
     * chmod +x dedsec_pirata
     * ./dedsec_pirata 
 
