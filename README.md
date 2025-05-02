@@ -25,7 +25,12 @@ With a minimal interface and fast execution, it's the perfect tool for users who
     * cd DEDSEC_PIRATA
     * pip install beautifulsoup4 tabulate
     * chmod +x dedsec_pirata
-    * ./dedsec_pirata
+    * ./dedsec_pirata 
+
+    or
+
+    * sudo apt install ./dedsec_pirata.deb
+    * dedsec_pirata
 
 ### TESTED ON FOLLOWING
 * Kali Linux 
